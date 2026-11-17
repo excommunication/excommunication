@@ -1,23 +1,26 @@
-### [soundcloud-2](https://github.com/excommunication/soundcloud-2)
+<div align="center">
 
-клиент soundcloud для windows. своя волна по лайкам, тексты песен под трек, режим 9:16 для роликов
+### SoundCloud 2 · клиент SoundCloud для Windows
 
-<a href="https://github.com/excommunication/soundcloud-2/releases/latest"><img src="https://img.shields.io/github/v/release/excommunication/soundcloud-2?style=flat-square&color=ff5500&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F" alt="версия"></a>&nbsp;<a href="https://github.com/excommunication/soundcloud-2/releases"><img src="https://img.shields.io/github/downloads/excommunication/soundcloud-2/total?style=flat-square&color=333333&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" alt="скачиваний"></a>&nbsp;<img src="https://img.shields.io/badge/Windows-10%20%C2%B7%2011%20x64-333333?style=flat-square" alt="Windows 10 и 11 x64">&nbsp;<a href="https://github.com/excommunication/soundcloud-2/blob/main/LICENSE"><img src="https://img.shields.io/badge/%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-MIT-333333?style=flat-square" alt="лицензия MIT"></a>
+Своя «Моя волна» по лайкам, текст песен по таймкодам, режим 9:16 для роликов, итоги недели и месяца.
+Открытый код, бесплатно.
 
-<a href="https://github.com/excommunication/soundcloud-2"><img src="https://raw.githubusercontent.com/excommunication/soundcloud-2/main/assets/readme/home.webp" width="100%" alt="soundcloud-2"></a>
+<a href="https://github.com/excommunication/soundcloud-2/releases/latest/download/SoundCloud-2-Setup.exe"><b>Скачать для Windows</b></a>
 
-[скачать](https://github.com/excommunication/soundcloud-2/releases/latest/download/SoundCloud-2-Setup.exe)
+</div>
 
 ---
 
-### 📢 Telegram
+### 🔗 Ссылки
 
-Новости SC2, релизы и разборы, как всё устроено внутри: [@soundclaude2](https://t.me/soundclaude2).
+- 📢 Telegram: [@soundclaude2](https://t.me/soundclaude2) — новости, релизы и разборы
+- 💻 Репозиторий: [excommunication/soundcloud-2](https://github.com/excommunication/soundcloud-2)
+- ☕ Поддержать: [DonationAlerts](https://www.donationalerts.com/r/shhriff)
 
 ### 💬 Про SC2
 
-SC2 я делаю один, в свободное время. Код открыт, лицензия MIT, клиент бесплатный. Если нашёл баг или хочешь фичу, заводи issue в [репозитории](https://github.com/excommunication/soundcloud-2/issues).
+SC2 я делаю один, в свободное время. Код открыт, лицензия MIT. Баги и идеи — в [issues](https://github.com/excommunication/soundcloud-2/issues).
 
-### ☕ Поддержать
+### 📊 Немного обо мне
 
-Если SC2 помогает, можно скинуть на подписки, которыми я пишу код: [ссылка на донат](DONATE_URL)
+<img src="https://img.shields.io/github/followers/excommunication?style=flat-square&color=ff5500&label=подписчики" alt="подписчики">&nbsp;<img src="https://img.shields.io/github/stars/excommunication/soundcloud-2?style=flat-square&color=333333&label=звёзды%20SC2" alt="звёзды SC2">&nbsp;<img src="https://img.shields.io/github/downloads/excommunication/soundcloud-2/total?style=flat-square&color=333333&label=загрузки%20SC2" alt="загрузки SC2">&nbsp;<img src="https://img.shields.io/badge/лицензия-MIT-333333?style=flat-square" alt="MIT">
