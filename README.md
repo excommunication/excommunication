@@ -7,3 +7,17 @@
 <a href="https://github.com/excommunication/soundcloud-2"><img src="https://raw.githubusercontent.com/excommunication/soundcloud-2/main/assets/readme/home.webp" width="100%" alt="soundcloud-2"></a>
 
 [скачать](https://github.com/excommunication/soundcloud-2/releases/latest/download/SoundCloud-2-Setup.exe)
+
+---
+
+### 📢 Telegram
+
+Новости SC2, релизы и разборы, как всё устроено внутри: [@soundclaude2](https://t.me/soundclaude2).
+
+### 💬 Про SC2
+
+SC2 я делаю один, в свободное время. Код открыт, лицензия MIT, клиент бесплатный. Если нашёл баг или хочешь фичу, заводи issue в [репозитории](https://github.com/excommunication/soundcloud-2/issues).
+
+### ☕ Поддержать
+
+Если SC2 помогает, можно скинуть на подписки, которыми я пишу код: [ссылка на донат](DONATE_URL)
